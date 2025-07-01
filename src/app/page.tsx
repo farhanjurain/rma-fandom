@@ -17,7 +17,7 @@ export default function Home() {
             </div>
             <h1 className="text-5xl md:text-7xl font-bebas tracking-wide mb-6">
               R3AL M4DRID FANDOM
-              <span className="block text-rm-yellow mt-2">CO-OP TOURNAMENT 2024</span>
+              <span className="block text-rm-yellow mt-2">CO-OP TOURNAMENT 2025</span>
             </h1>
             <p className="text-xl md:text-2xl mb-8 max-w-3xl mx-auto">
               Where the best Real Madrid fans compete for glory in the ultimate co-op challenge!

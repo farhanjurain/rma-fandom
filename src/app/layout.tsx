@@ -16,7 +16,7 @@ const bebas = Bebas_Neue({
 
 export const metadata: Metadata = {
   title: "R3AL M4DRID FANDOM | Co-op Tournament",
-  description: "Official R3AL M4DRID FANDOM Co-op Tournament 2024 - Where the best Real Madrid fans compete for glory!",
+  description: "Official R3AL M4DRID FANDOM Co-op Tournament 2025 - Where the best Real Madrid fans compete for glory!",
   icons: {
     icon: "/favicon.ico",
   },
